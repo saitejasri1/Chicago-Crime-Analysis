@@ -1,0 +1,16 @@
+KDTree
+fbprophrt
+scikit-learn
+pandas
+numpy
+matplolib
+seaborn
+plotly
+folium
+dash
+joblib
+geopy
+torch
+pyproj
+pytorch_forecasting
+xgboost
