@@ -1,22 +1,43 @@
-KDTree
-fbprophrt
-scikit-learn
-pandas
-numpy
-matplolib
-seaborn
-plotly
-folium
-dash
-joblib
-geopy
-torch
-pyproj
-pytorch_forecasting
-xgboost
-pymice
-statsmodels
-streamlit
-shap 
-torchvision 
-torchaudio 
+# Tree-based data structure
+kdtree==0.16
+
+# Time-series forecasting
+fbprophet==0.7.1
+
+# Machine learning and data analysis
+scikit-learn==1.3.1
+pandas==1.5.3
+numpy==1.23.5
+
+# Visualization libraries
+matplotlib==3.6.2
+seaborn==0.12.2
+plotly==5.15.0
+dash==2.12.0
+
+# Geographic analysis
+folium==0.14.0
+geopy==2.3.0
+
+# Utility libraries
+joblib==1.3.2
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+
+# Geospatial projections
+pyproj==3.5.0
+
+# Time-series forecasting and ML
+pytorch_forecasting==0.10.3
+xgboost==1.7.6
+
+# Missing data imputation
+pymice==0.2.3
+
+# Statistical modeling
+statsmodels==0.14.0
+
+# App development and explainability
+streamlit==1.25.0
+shap==0.41.0
