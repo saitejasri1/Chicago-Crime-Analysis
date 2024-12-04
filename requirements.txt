@@ -14,3 +14,9 @@ torch
 pyproj
 pytorch_forecasting
 xgboost
+pymice
+statsmodels
+streamlit
+shap 
+torchvision 
+torchaudio 
